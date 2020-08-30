@@ -11,9 +11,9 @@ keywords = ["cargo", "package"]
 
 [dependencies]
 anyhow = "1.0"
-clap = { version = "2.33.0", features = ["yaml"] }
-serde = { version = "1.0.103", features = ["std", "derive"] }
-toml = "0.5.5"
+clap = { version = "2.33.3", features = ["yaml"] }
+serde = { version = "1.0.115", features = ["std", "derive"] }
+toml = "0.5.6"
 
 [package.metadata.arch]
 arch = ["x86_64"]
