@@ -1,8 +1,10 @@
+This is my personally modified version of [cargo-arch](https://github.com/wdv4758h/cargo-arch) with some improvements in generating the output PKGBUILD
+
 ========================================================================
 cargo-arch - generate Arch Linux packages from information in Cargo.toml
 ========================================================================
 
-cargo-arch will generate ``PKGBUILD`` from information in Cargo.toml.
+cargo-arch will generate ready to use ``PKGBUILD`` from information in Cargo.toml.
 You can add extra information in ``[package.metadata.arch]`` sections,
 options can be found by ``man PKGBUILD``.
 
