@@ -1,4 +1,4 @@
-This is my personally modified version of [cargo-arch](https://github.com/wdv4758h/cargo-arch) with some improvements in generating the output PKGBUILD
+This is my personally modified version of https://github.com/wdv4758h/cargo-arch with some improvements in generating the output PKGBUILD
 
 ========================================================================
 cargo-arch - generate Arch Linux packages from information in Cargo.toml
