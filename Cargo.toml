@@ -1,6 +1,6 @@
 [package]
 name = "cargo-arch"
-version = "0.1.4"
+version = "0.1.5"
 authors = ["Chiu-Hsiang Hsu <wdv4758h@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.rst"
@@ -10,7 +10,7 @@ edition = "2018"
 keywords = ["cargo", "package"]
 
 [dependencies]
-anyhow = "1.0"
+anyhow = "1.0.32"
 clap = { version = "2.33.3", features = ["yaml"] }
 serde = { version = "1.0.115", features = ["std", "derive"] }
 toml = "0.5.6"
